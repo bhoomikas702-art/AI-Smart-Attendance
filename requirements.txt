@@ -1,0 +1,7 @@
+deepface
+opencv-python
+numpy==1.23.5
+pandas
+tensorflow-intel==2.12.0
+keras==2.12.0
+protobuf==3.20.3
